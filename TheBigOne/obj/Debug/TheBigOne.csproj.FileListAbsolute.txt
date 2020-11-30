@@ -1,0 +1,20 @@
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\bin\Debug\TheBigOne.exe.config
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\bin\Debug\TheBigOne.exe
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\bin\Debug\TheBigOne.pdb
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csprojAssemblyReference.cache
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.Form1.resources
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.Properties.Resources.resources
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csproj.GenerateResource.cache
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csproj.CoreCompileInputs.cache
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.exe
+C:\Users\lab906\Documents\phattharadon work\Program\TheBigOne\TheBigOne\obj\Debug\TheBigOne.pdb
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csprojAssemblyReference.cache
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.Form1.resources
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.Properties.Resources.resources
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csproj.GenerateResource.cache
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.csproj.CoreCompileInputs.cache
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.exe
+F:\CGM\Code\TheBigOne\TheBigOne\obj\Debug\TheBigOne.pdb
+F:\CGM\Code\TheBigOne\TheBigOne\bin\Debug\TheBigOne.exe.config
+F:\CGM\Code\TheBigOne\TheBigOne\bin\Debug\TheBigOne.exe
+F:\CGM\Code\TheBigOne\TheBigOne\bin\Debug\TheBigOne.pdb
